@@ -85,8 +85,8 @@ For example, a depot my contain the following branches, but you only want to bui
 
 ```
 //depot/projA/comX
-//depot/projA/comX
-//depot/projA/comX
+//depot/projA/comY
+//depot/projA/comZ
 //depot/projA/resA
 //depot/projA/resB
 ```
